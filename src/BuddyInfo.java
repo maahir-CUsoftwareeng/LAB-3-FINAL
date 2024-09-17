@@ -54,5 +54,9 @@ public class BuddyInfo {
         System.out.println("Hello " + buddy.getName());
         AddressBook test = new AddressBook(buddy);
         System.out.println(test);
+        BuddyInfo buddy2 = new BuddyInfo("Tom", "Carleton", "613");
+        test.addBuddy(buddy2);
+        test.removeBuddy(buddy2);
+        System.out.println(test);
     }
 }
