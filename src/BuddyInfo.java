@@ -1,4 +1,5 @@
 //testing Git with comments
+//testing pull intellij
 
 public class BuddyInfo {
     // Instance variables
