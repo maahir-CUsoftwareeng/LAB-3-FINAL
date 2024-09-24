@@ -1,3 +1,5 @@
+//testing Git with comments
+
 public class BuddyInfo {
     // Instance variables
     private String name;
