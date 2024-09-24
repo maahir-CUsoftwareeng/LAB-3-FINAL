@@ -1,6 +1,6 @@
 //testing Git with comments
 //testing pull intellij
-
+//testing branch
 public class BuddyInfo {
     // Instance variables
     private String name;
